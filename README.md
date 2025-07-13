@@ -15,7 +15,7 @@ This project demonstrates a full-stack BI solution that connects Amazon S3, Snow
 
 ## 🔁 Data Flow Pipeline
 
-S3 (Raw CSV) ➝ Snowflake (SQL Cleanup & Modeling) ➝ Tableau Cloud (Interactive Dashboard)
+S3 (Raw CSV) ➝ Snowflake (SQL Cleanup & Modeling) ➝ Tableau (Interactive Dashboard)
 
 ---
 
