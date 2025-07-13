@@ -57,7 +57,7 @@ S3 (Raw CSV) ➝ Snowflake (SQL Cleanup & Modeling) ➝ Tableau (Interactive Das
 The dataset used in this project is hosted publicly on Amazon S3.
 
 📥 **Download CSV File (S3):**  
-[Renewable_Energy_Usage_Sampled.csv](https://tableau1.projects.s3.amazonaws.com/Renewable_Energy_Usage_Sampled.csv)
+[Renewable_Energy_Usage_Sampled.csv](https://s3.us-east-1.amazonaws.com/tableau1.projects/Renewable_Energy_Usage_Sampled.csv)
 
 This dataset contains:
 - Household energy consumption by country and region
